@@ -13,7 +13,7 @@ main {
         to bottom, 
         #FFF, #6888aa
         );
-        // border: 1px solid red; - this helps with layout shit, turn it on if things get out of alignment.
+        // border: 1px solid red;
     section {
         display: flex;
         flex-direction: column;
@@ -23,12 +23,12 @@ main {
         footer * {
             padding: 0 2.5vw;
         }
-        // border: 1px solid red; - this helps with layout shit, turn it on if things get out of alignment.
+        // border: 1px solid red;
     }
     footer {
         align-self: center;
         padding: 10px 10px;
         margin: 0 2.5%;
-        // border: 1px solid red; - this helps with layout shit, turn it on if things get out of alignment.
+        // border: 1px solid red;
     }
 }
